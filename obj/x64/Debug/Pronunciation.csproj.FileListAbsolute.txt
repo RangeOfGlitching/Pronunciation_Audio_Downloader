@@ -1,0 +1,16 @@
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\bin\x64\Debug\Pronounciation.exe.config
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\bin\x64\Debug\Pronounciation.exe
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\bin\x64\Debug\Pronounciation.pdb
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\bin\x64\Debug\Interop.WMPLib.dll
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\bin\x64\Debug\AxInterop.WMPLib.dll
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronunciation.csproj.AssemblyReference.cache
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronunciation.csproj.SuggestedBindingRedirects.cache
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Interop.WMPLib.dll
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\AxInterop.WMPLib.dll
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronunciation.csproj.ResolveComReference.cache
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronounciation.Form1.resources
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronounciation.Properties.Resources.resources
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronunciation.csproj.GenerateResource.cache
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronunciation.csproj.CoreCompileInputs.cache
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronounciation.exe
+D:\20220403_Pronounciation\20220403_2_Pronunciation\20220403_Pronunciation\obj\x64\Debug\Pronounciation.pdb

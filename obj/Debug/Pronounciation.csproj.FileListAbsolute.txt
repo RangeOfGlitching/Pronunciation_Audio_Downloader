@@ -1,0 +1,40 @@
+C:\Users\admin\source\repos\Pronounciation\bin\Debug\Pronounciation.exe.config
+C:\Users\admin\source\repos\Pronounciation\bin\Debug\Pronounciation.exe
+C:\Users\admin\source\repos\Pronounciation\bin\Debug\Pronounciation.pdb
+C:\Users\admin\source\repos\Pronounciation\obj\Debug\Pronounciation.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Pronounciation\obj\Debug\Pronounciation.Form1.resources
+C:\Users\admin\source\repos\Pronounciation\obj\Debug\Pronounciation.Properties.Resources.resources
+C:\Users\admin\source\repos\Pronounciation\obj\Debug\Pronounciation.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Pronounciation\obj\Debug\Pronounciation.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Pronounciation\obj\Debug\Pronounciation.exe
+C:\Users\admin\source\repos\Pronounciation\obj\Debug\Pronounciation.pdb
+F:\Pronunce\Pronounciation\bin\Debug\Pronounciation.exe.config
+F:\Pronunce\Pronounciation\bin\Debug\Pronounciation.exe
+F:\Pronunce\Pronounciation\bin\Debug\Pronounciation.pdb
+F:\Pronunce\Pronounciation\obj\Debug\Pronounciation.csprojAssemblyReference.cache
+F:\Pronunce\Pronounciation\obj\Debug\Pronounciation.Form1.resources
+F:\Pronunce\Pronounciation\obj\Debug\Pronounciation.Properties.Resources.resources
+F:\Pronunce\Pronounciation\obj\Debug\Pronounciation.csproj.GenerateResource.cache
+F:\Pronunce\Pronounciation\obj\Debug\Pronounciation.csproj.CoreCompileInputs.cache
+F:\Pronunce\Pronounciation\obj\Debug\Pronounciation.exe
+F:\Pronunce\Pronounciation\obj\Debug\Pronounciation.pdb
+F:\Pronunce\Pronounciation\bin\Debug\Interop.WMPLib.dll
+F:\Pronunce\Pronounciation\bin\Debug\AxInterop.WMPLib.dll
+F:\Pronunce\Pronounciation\obj\Debug\Interop.WMPLib.dll
+F:\Pronunce\Pronounciation\obj\Debug\AxInterop.WMPLib.dll
+F:\Pronunce\Pronounciation\obj\Debug\Pronounciation.csproj.ResolveComReference.cache
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\bin\Debug\Pronounciation.exe.config
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\bin\Debug\Pronounciation.exe
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\bin\Debug\Pronounciation.pdb
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\bin\Debug\Interop.WMPLib.dll
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\bin\Debug\AxInterop.WMPLib.dll
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Pronounciation.csproj.AssemblyReference.cache
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Interop.WMPLib.dll
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\AxInterop.WMPLib.dll
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Pronounciation.csproj.ResolveComReference.cache
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Pronounciation.Form1.resources
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Pronounciation.Properties.Resources.resources
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Pronounciation.csproj.GenerateResource.cache
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Pronounciation.csproj.CoreCompileInputs.cache
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Pronounciation.exe
+F:\[00] Software\[03]C# Project\[01]Pronunciation\20220403_Pronounciation\obj\Debug\Pronounciation.pdb
