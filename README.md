@@ -1,20 +1,14 @@
 # Pronunciation Audio Downloader
 
----
-
 This is a tool to help me download the pronunciation of English vocabulary. It is strongly recommended to use this tool with anki.
 
 # **Installation (Windows only)**
-
----
 
 Download latest [version](https://github.com/RangeOfGlitching/Pronunciation_Audio_Downloader/releases/download/Release1.1.0/20220404.Pronunciation_Executable.zip), unzip it.  Double click `Pronunciation.exe` 
 
 ![alt text](https://github.com/RangeOfGlitching/Pronunciation_Audio_Downloader/blob/master/img/PronuncationEXE.png?raw=true)
 
 # How to use
-
----
 
 ![alt text](https://github.com/RangeOfGlitching/Pronunciation_Audio_Downloader/blob/master/img/GUI.png?raw=true)
 
